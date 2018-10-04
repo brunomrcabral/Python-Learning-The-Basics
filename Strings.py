@@ -42,6 +42,6 @@ if mystring == "hello":
     print(String + "%s" % mystring)
 
 if myfloat == 10.0:
-    print("Float  value is ---- %s" % myfloat)
+    print("Float  value is ---- %f" % myfloat)
 if myint == 20.0:
- 	print("Int    value is ---- %s" % myint)
+	print("Int    value is ---- %d" % myint)

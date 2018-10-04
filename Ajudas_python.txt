@@ -7,7 +7,25 @@ Na consola abrir terminal com  ---- python
 
 Quote "Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object."
 
+
 Python supports two types of numbers - integers and floating point numbers. 
+
 
 Comentarios Uma linha          ---- #qualquer coisa
 Comentarios varias linhas      ---- “”” qualquer coisa .... “””
+
+
+Quote "Python uses C-style string formatting to create new, formatted strings. The "%" operator is used to format a set of variables enclosed in a "tuple" (a fixed size list), together with a format string, which contains normal text together with "argument specifiers", special symbols like "%s" and "%d"."
+
+
+Tipo de argument specifiers
+
+%s - String (or any object with a string representation, like numbers)
+
+%d - Integers
+
+%f - Floating point numbers
+
+%.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
+
+%x/%X - Integers in hex representation (lowercase/uppercase)
