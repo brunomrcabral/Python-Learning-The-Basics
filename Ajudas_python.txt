@@ -1,0 +1,13 @@
+Ficheiros com terminação 	   ---- .py
+
+Compilar com 			 	   ---- python file_name.py
+
+Na consola abrir terminal com  ---- python 
+
+
+Quote "Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object."
+
+Python supports two types of numbers - integers and floating point numbers. 
+
+Comentarios Uma linha          ---- #qualquer coisa
+Comentarios varias linhas      ---- “”” qualquer coisa .... “””
